@@ -1,1 +1,1 @@
-# 2021-west-coast-fire-activity
+# 2021 West Coast Fire Activity
