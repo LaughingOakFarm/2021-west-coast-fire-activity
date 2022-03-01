@@ -1,0 +1,922 @@
+[{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa7483a"
+  },
+  "registration": "N499DF",
+  "aircraftType": "UH1",
+  "characteristic": "H1",
+  "callsign": "C101",
+  "modeS": "A631D8"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa74830"
+  },
+  "registration": "N488DF",
+  "aircraftType": "UH1",
+  "characteristic": "H1",
+  "callsign": "C305",
+  "modeS": "A606A2"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa74841"
+  },
+  "registration": "N795HT",
+  "aircraftType": "S64",
+  "characteristic": "H2"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa747ea"
+  },
+  "registration": "N295EA",
+  "aircraftType": "MD87",
+  "characteristic": "TNKR",
+  "homebase": "Redding"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa74834"
+  },
+  "registration": "N493DF",
+  "aircraftType": "EH1",
+  "characteristic": "H1",
+  "callsign": "C102",
+  "modeS": "A61B8E"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa7480e"
+  },
+  "registration": "N438DF",
+  "aircraftType": "S2",
+  "characteristic": "TNKR",
+  "callsign": "T85",
+  "modeS": "A54127"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa747e6"
+  },
+  "registration": "N292EA",
+  "aircraftType": "MD87",
+  "characteristic": "TNKR",
+  "homebase": "Sacramento",
+  "callsign": "TNKR102",
+  "modeS": "A2FD4D"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa74824"
+  },
+  "registration": "N477DF",
+  "aircraftType": "S-70I",
+  "characteristic": "H2",
+  "modeS": "A5DB6C"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa7482a"
+  },
+  "registration": "N483DF",
+  "aircraftType": "S-70I",
+  "characteristic": "H2",
+  "modeS": "A5F40F"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa7482b"
+  },
+  "registration": "N484DF",
+  "aircraftType": "S-70I",
+  "characteristic": "H2",
+  "modeS": "A5F7C6"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa747f5"
+  },
+  "registration": "N407DF",
+  "aircraftType": "V10",
+  "characteristic": "CMND",
+  "callsign": "A501",
+  "modeS": "A4C6F3"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa747fe"
+  },
+  "registration": "N418DF",
+  "aircraftType": "V10",
+  "characteristic": "CMND",
+  "callsign": "A340",
+  "modeS": "A4F229"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa74803"
+  },
+  "registration": "N426DF",
+  "aircraftType": "S2",
+  "characteristic": "TNKR",
+  "homebase": "Chico",
+  "callsign": "T88",
+  "modeS": "A5123A"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa74801"
+  },
+  "registration": "N424DF",
+  "aircraftType": "S2",
+  "characteristic": "TNKR",
+  "callsign": "T83",
+  "modeS": "A50ACC"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa74820"
+  },
+  "registration": "N474NA",
+  "aircraftType": "B462",
+  "characteristic": "LAT",
+  "callsign": "TNKR02",
+  "modeS": "A5D123"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa747de"
+  },
+  "registration": "94-7316",
+  "aircraftType": "C130",
+  "characteristic": "LAT",
+  "callsign": "MAFFS02",
+  "modeS": "ADFDDD"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa74808"
+  },
+  "registration": "N432DF",
+  "aircraftType": "S2",
+  "homebase": "Ramona",
+  "callsign": "T71",
+  "modeS": "A52ADD"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa74829"
+  },
+  "registration": "N482DF",
+  "aircraftType": "S-70I",
+  "characteristic": "H2",
+  "modeS": "A5F058"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa7482d"
+  },
+  "registration": "N485DF",
+  "aircraftType": "S2",
+  "characteristic": "TNKR",
+  "homebase": "Chico"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa74838"
+  },
+  "registration": "N497DF",
+  "aircraftType": "EH1",
+  "characteristic": "H1",
+  "callsign": "C202",
+  "modeS": "A62A6A"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa7481e"
+  },
+  "registration": "N472NA",
+  "aircraftType": "B462",
+  "characteristic": "LAT",
+  "callsign": "TNKR10",
+  "modeS": "A5C9B5"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa747f6"
+  },
+  "registration": "N408DF",
+  "aircraftType": "V10",
+  "characteristic": "CMND",
+  "homebase": "Grass Valley",
+  "callsign": "A230"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa747f9"
+  },
+  "registration": "N40HX",
+  "aircraftType": "KMAX",
+  "characteristic": "H1",
+  "homebase": "Auburn"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa747e8"
+  },
+  "registration": "N294EA",
+  "aircraftType": "MD87",
+  "characteristic": "TNKR",
+  "callsign": "TNKR104",
+  "modeS": "A304BB"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa74813"
+  },
+  "registration": "N444DF",
+  "aircraftType": "S2",
+  "characteristic": "TNKR",
+  "callsign": "T75",
+  "modeS": "A559CA"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa74837"
+  },
+  "registration": "N496DF",
+  "aircraftType": "EH1",
+  "characteristic": "H1",
+  "callsign": "C902",
+  "modeS": "A626B3"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa74819"
+  },
+  "registration": "N461DF",
+  "aircraftType": "BE20",
+  "characteristic": "CMND",
+  "homebase": "Redding",
+  "callsign": "A503",
+  "modeS": "A59DA3"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa7483f"
+  },
+  "registration": "N690AR",
+  "aircraftType": "AC90",
+  "characteristic": "CMND",
+  "homebase": "Redding"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa74817"
+  },
+  "registration": "N457DF",
+  "aircraftType": "BE58",
+  "characteristic": "CMND",
+  "callsign": "N/A",
+  "modeS": "A58C6E"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa747f8"
+  },
+  "registration": "N409DF",
+  "aircraftType": "V10",
+  "characteristic": "CMND",
+  "callsign": "A330",
+  "modeS": "A4CE61"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa747e7"
+  },
+  "registration": "N293EA",
+  "aircraftType": "MD87",
+  "characteristic": "TNKR",
+  "callsign": "TNKR103",
+  "modeS": "A30104"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa74800"
+  },
+  "registration": "N422DF",
+  "aircraftType": "S2",
+  "characteristic": "TNKR",
+  "callsign": "T82",
+  "modeS": "A5035E"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa74811"
+  },
+  "registration": "N441DF",
+  "aircraftType": "S2",
+  "characteristic": "TNKR",
+  "callsign": "T100",
+  "modeS": "A54EA5"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa74822"
+  },
+  "registration": "N476NA",
+  "aircraftType": "B462",
+  "characteristic": "LAT",
+  "callsign": "TNKR12",
+  "modeS": "A5D891"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa747dd"
+  },
+  "registration": "93-1041",
+  "aircraftType": "C130",
+  "characteristic": "LAT",
+  "callsign": "MAFFS05",
+  "modeS": "ADFDBB"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa74802"
+  },
+  "registration": "N425DF",
+  "aircraftType": "S2",
+  "characteristic": "TNKR",
+  "homebase": "Grass Valley",
+  "callsign": "T89",
+  "modeS": "A50E83"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa74814"
+  },
+  "registration": "N445DF",
+  "aircraftType": "S2",
+  "characteristic": "TNKR",
+  "callsign": "T80",
+  "modeS": "A55D81"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa7480a"
+  },
+  "registration": "N434DF",
+  "aircraftType": "S2",
+  "characteristic": "TNKR",
+  "homebase": "Ukiah",
+  "callsign": "T90",
+  "modeS": "A5324B"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa74815"
+  },
+  "registration": "N448DF",
+  "aircraftType": "S2",
+  "characteristic": "TNKR",
+  "homebase": "Redding",
+  "callsign": "T95",
+  "modeS": "A568A6"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa74810"
+  },
+  "registration": "N440DF",
+  "aircraftType": "S2",
+  "characteristic": "TNKR",
+  "callsign": "T96",
+  "modeS": "A54AEE"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa7481a"
+  },
+  "registration": "N463DF",
+  "aircraftType": "BE20",
+  "characteristic": "CMND",
+  "callsign": "A504",
+  "modeS": "A5A511"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa7482f"
+  },
+  "registration": "N487DF",
+  "aircraftType": "S-70I",
+  "characteristic": "H2",
+  "modeS": "A602EB"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa747e1"
+  },
+  "registration": "N20PF",
+  "aircraftType": "B212",
+  "characteristic": "H1",
+  "homebase": "Truckee"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa74839"
+  },
+  "registration": "N498DF",
+  "aircraftType": "UH1",
+  "characteristic": "H1",
+  "homebase": "Holister",
+  "callsign": "C406",
+  "modeS": "A62E21"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa747e0"
+  },
+  "registration": "N111FD",
+  "aircraftType": "BE95",
+  "characteristic": "H1",
+  "homebase": "Hawthorn"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa74807"
+  },
+  "registration": "N431DF",
+  "aircraftType": "S2",
+  "characteristic": "TNKR",
+  "callsign": "T78",
+  "modeS": "A52726"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa747ff"
+  },
+  "registration": "N421DF",
+  "aircraftType": "V10",
+  "characteristic": "CMND",
+  "callsign": "A240",
+  "modeS": "A4FFA7"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa7483c"
+  },
+  "registration": "N17085",
+  "aircraftType": "DC10",
+  "characteristic": "LAT",
+  "callsign": "TNKR911",
+  "modeS": "A11CBB"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa74804"
+  },
+  "registration": "N427DF",
+  "aircraftType": "S2",
+  "characteristic": "TNKR",
+  "homebase": "Ramona",
+  "callsign": "T70",
+  "modeS": "A515F1"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa7482c"
+  },
+  "registration": "N485DF",
+  "aircraftType": "S-70I",
+  "characteristic": "H2",
+  "modeS": "A5FB7D"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa74806"
+  },
+  "registration": "N429DF",
+  "aircraftType": "V10",
+  "characteristic": "CMND",
+  "callsign": "A310",
+  "modeS": "A51D5F"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa74840"
+  },
+  "registration": "N711GH",
+  "aircraftType": "UH1",
+  "characteristic": "H1",
+  "homebase": "Paso Robles"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa74818"
+  },
+  "registration": "N458DF",
+  "aircraftType": "S2",
+  "characteristic": "TNKR",
+  "callsign": "T79",
+  "modeS": "A59025"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa747e5"
+  },
+  "registration": "N291EA",
+  "aircraftType": "MD87",
+  "characteristic": "TNKR",
+  "callsign": "TNKR101",
+  "modeS": "A2F996"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa74823"
+  },
+  "registration": "N476DF",
+  "aircraftType": "S-70I",
+  "characteristic": "H2",
+  "modeS": "A5D7B5"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa747e2"
+  },
+  "registration": "N212AH",
+  "aircraftType": "B212",
+  "characteristic": "H1",
+  "homebase": "Oxnard"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa747ed"
+  },
+  "registration": "N389AC",
+  "aircraftType": "CL-2",
+  "characteristic": "SCPR",
+  "callsign": "SCPR260"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa747f7"
+  },
+  "registration": "N408DF",
+  "aircraftType": "V10",
+  "characteristic": "CMND",
+  "callsign": "A230",
+  "modeS": "A4CAAA"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa7480f"
+  },
+  "registration": "N439DF",
+  "aircraftType": "S2",
+  "characteristic": "TNKR",
+  "callsign": "T74",
+  "modeS": "A544DE"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa74805"
+  },
+  "registration": "N428DF",
+  "aircraftType": "S2",
+  "characteristic": "TNKR",
+  "homebase": "Redding",
+  "callsign": "T91",
+  "modeS": "A519A8"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa747f2"
+  },
+  "registration": "N402DF",
+  "aircraftType": "V10",
+  "characteristic": "CMND",
+  "callsign": "A210",
+  "modeS": "A4B460"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa74827"
+  },
+  "registration": "N480DF",
+  "aircraftType": "S-70I",
+  "characteristic": "H2",
+  "modeS": "A5E8EA"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa747ec"
+  },
+  "registration": "N385AC",
+  "aircraftType": "CL-2",
+  "characteristic": "SCPR",
+  "callsign": "SCPR263"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa74833"
+  },
+  "registration": "N491DF",
+  "aircraftType": "EH1",
+  "characteristic": "H1",
+  "callsign": "C301",
+  "modeS": "A61420"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa747f3"
+  },
+  "registration": "N403DF",
+  "aircraftType": "V10",
+  "characteristic": "CMND",
+  "callsign": "A500",
+  "modeS": "A4B817"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa747fb"
+  },
+  "registration": "N413DF",
+  "aircraftType": "V10",
+  "characteristic": "CMND",
+  "callsign": "A120",
+  "modeS": "A4DF96"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa747ef"
+  },
+  "registration": "N400DF",
+  "aircraftType": "V10",
+  "characteristic": "CMND",
+  "callsign": "A410",
+  "modeS": "A4ACF2"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa74809"
+  },
+  "registration": "N433DF",
+  "aircraftType": "S2",
+  "characteristic": "TNKR",
+  "homebase": "Auburn",
+  "callsign": "T86",
+  "modeS": "A52E94"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa74832"
+  },
+  "registration": "N490DF",
+  "aircraftType": "UH1",
+  "characteristic": "H1",
+  "callsign": "C205",
+  "modeS": "A61069"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa747e9"
+  },
+  "registration": "N295EA",
+  "aircraftType": "MD87",
+  "characteristic": "TNKR",
+  "callsign": "TNKR105",
+  "modeS": "A30872"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa747df"
+  },
+  "registration": "GST944",
+  "aircraftType": "747",
+  "characteristic": "TNKR",
+  "homebase": "McClelland / Sacramento"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa74831"
+  },
+  "registration": "N489DF",
+  "aircraftType": "EH1",
+  "characteristic": "H1",
+  "callsign": "C901",
+  "modeS": "A60A59"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa74826"
+  },
+  "registration": "N478NA",
+  "aircraftType": "B462",
+  "characteristic": "LAT",
+  "callsign": "TNKR16",
+  "modeS": "A5DFFF"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa747fc"
+  },
+  "registration": "N414DF",
+  "aircraftType": "V10",
+  "characteristic": "CMND",
+  "homebase": "Santa Rosa",
+  "callsign": "A140",
+  "modeS": "A4E34D"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa7481f"
+  },
+  "registration": "N473NA",
+  "aircraftType": "B462",
+  "characteristic": "LAT",
+  "callsign": "TNKR01",
+  "modeS": "A5CD6C"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa74835"
+  },
+  "registration": "N494DF",
+  "aircraftType": "EH1",
+  "characteristic": "H1",
+  "callsign": "C404",
+  "modeS": "A61F45"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa7481d"
+  },
+  "registration": "N471NA",
+  "aircraftType": "B462",
+  "characteristic": "LAT",
+  "callsign": "TNKR41",
+  "modeS": "A5C5FE"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa74843"
+  },
+  "registration": "N978HP",
+  "aircraftType": "AS50",
+  "characteristic": "H1",
+  "homebase": "Auburn"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa74842"
+  },
+  "registration": "N974HO"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa747f4"
+  },
+  "registration": "N407DF",
+  "aircraftType": "V10",
+  "characteristic": "CMND",
+  "callsign": "A501",
+  "modeS": "A4C6F3"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa747e4"
+  },
+  "registration": "N223HT",
+  "aircraftType": "UH1",
+  "characteristic": "H1",
+  "homebase": "Chico"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa747f1"
+  },
+  "registration": "N402DF",
+  "aircraftType": "v10",
+  "characteristic": "CMND",
+  "homebase": "Chico",
+  "callsign": "A210"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa747fd"
+  },
+  "registration": "N415DF",
+  "aircraftType": "V10",
+  "characteristic": "CMND",
+  "callsign": "A460",
+  "modeS": "A4E704"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa74828"
+  },
+  "registration": "N481DF",
+  "aircraftType": "UH1",
+  "characteristic": "H1",
+  "callsign": "C104",
+  "modeS": "A5ECA1"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa74816"
+  },
+  "registration": "N450DF",
+  "aircraftType": "S2",
+  "characteristic": "TNKR",
+  "homebase": "Chico",
+  "callsign": "T93",
+  "modeS": "A5726D"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa7483d"
+  },
+  "registration": "N522AX",
+  "aircraftType": "DC10",
+  "characteristic": "LAT",
+  "callsign": "TNKR912",
+  "modeS": "A69072"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa7481b"
+  },
+  "registration": "N470DF",
+  "aircraftType": "V10",
+  "characteristic": "CMND",
+  "homebase": "Sacramento",
+  "callsign": "A505",
+  "modeS": "A5C16B"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa747e3"
+  },
+  "registration": "N212HP",
+  "aircraftType": "B212",
+  "characteristic": "H1",
+  "homebase": "White Cloud"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa74836"
+  },
+  "registration": "N495DF",
+  "aircraftType": "EH1",
+  "characteristic": "H1",
+  "callsign": "C106",
+  "modeS": "A622FC"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa74821"
+  },
+  "registration": "N475NA",
+  "aircraftType": "B462",
+  "characteristic": "LAT",
+  "homebase": "Chico",
+  "callsign": "TNKR03",
+  "modeS": "A5D4DA"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa747fa"
+  },
+  "registration": "N410DF",
+  "aircraftType": "V10",
+  "characteristic": "CMND",
+  "homebase": "Ukiah",
+  "callsign": "A110",
+  "modeS": "A4D471"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa7481c"
+  },
+  "registration": "N470NA",
+  "aircraftType": "B462",
+  "characteristic": "LAT",
+  "callsign": "TNKR40",
+  "modeS": "A5C247"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa74825"
+  },
+  "registration": "N477NA",
+  "aircraftType": "B462",
+  "characteristic": "LAT",
+  "callsign": "TNKR15"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa747ee"
+  },
+  "registration": "N398LA",
+  "aircraftType": "AT8T",
+  "characteristic": "TNKR",
+  "homebase": "Auburn"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa7480b"
+  },
+  "registration": "N435DF",
+  "aircraftType": "S2",
+  "characteristic": "TNKR",
+  "homebase": "Hemet-Ryan",
+  "callsign": "T72",
+  "modeS": "A53602"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa747dc"
+  },
+  "registration": "92-1535 ",
+  "aircraftType": "C130",
+  "characteristic": "LAT",
+  "callsign": "MAFFS01",
+  "modeS": "ADFE72"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa747f0"
+  },
+  "registration": "N401DF",
+  "aircraftType": "V10",
+  "characteristic": "CMND",
+  "callsign": "A440",
+  "modeS": "A4B0A9"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa74812"
+  },
+  "registration": "N442DF",
+  "aircraftType": "S2",
+  "characteristic": "TNKR",
+  "homebase": "Redding",
+  "callsign": "T94",
+  "modeS": "A5525C"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa7483e"
+  },
+  "registration": "N603AX",
+  "aircraftType": "DC10",
+  "characteristic": "LAT",
+  "callsign": "TNKR914",
+  "modeS": "A7D27A"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa7480c"
+  },
+  "registration": "N436DF",
+  "aircraftType": "S2",
+  "characteristic": "TNKR",
+  "callsign": "T76",
+  "modeS": "A539B9"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa7483b"
+  },
+  "registration": "N612AX",
+  "aircraftType": "DC10",
+  "characteristic": "LAT",
+  "callsign": "TNKR910",
+  "modeS": "A7F642"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa747eb"
+  },
+  "registration": "N316LH",
+  "aircraftType": "B212",
+  "characteristic": "H1",
+  "homebase": "San Diego"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa7482e"
+  },
+  "registration": "N486DF",
+  "aircraftType": "S-70I",
+  "characteristic": "H2",
+  "modeS": "A5FF34"
+},{
+  "_id": {
+    "$oid": "60c636c8958f1bfcaaa7480d"
+  },
+  "registration": "N437DF",
+  "aircraftType": "S2",
+  "characteristic": "TNKR",
+  "callsign": "T73",
+  "modeS": "A53D70"
+}]
